@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="backgroundColor">#48B2E7</color>
+    <color name="homeBackgroundColor">#F7F7F9</color>
+    <color name="textColorButtonNext">#2B2B2B</color>
+    <color name="colorButtonClose">#F7F7F9</color>
+    <color name="textColorEditText">#6A6A6A</color>
+    <color name="errorColor">#D02D2D</color>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="text_hello">Привет!</string>
+    <string name="text_registration">Регистрация</string>
+    <string name="text_description">Заполните Свои данные или продолжите через социальные медиа</string>
+    <string name="text_forgot">Восстановить</string>
+    <string name="text_password">Пароль</string>
+    <string name="text_button_sign_in">Войти</string>
+    <string name="text_button_sign_up">Зарегистрироваться</string>
+    <string name="text_create_acc">Вы впервые? Создать пользователя</string>
+    <string name="text_person_data_agree">Даю согласие на обработку персональных данных</string>
+    <string name="text_name">Ваше имя</string>
+    <string name="text_have_account">Есть аккаунт? Войти</string>
+    <string name="text_welcome">ДОБРО ПОЖАЛОВАТЬ</string>
+    <string name="text_start_button">Начать</string>
+    <string name="text_next_button">Далее</string>
+    <string name="text_collection">Умная, великолепная и модная коллекция Изучите сейчас</string>
+    <string name="text_journey">Начнем путешествие</string>
+    <string name="text_power">У Вас Есть Сила, Чтобы</string>
+    <string name="text_plants">В вашей комнате много красивых и привлекательных растений</string>
+</resources>

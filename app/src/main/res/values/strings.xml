@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">SupabaseTest</string>
+    <string name="text_hello">Hello!</string>
+    <string name="text_registration">Register</string>
+    <string name="text_description">Fill in your details or continue via social media</string>
+    <string name="text_forgot">Forgot</string>
+    <string name="text_password">Password</string>
+    <string name="text_button_sign_in">SIGN IN</string>
+    <string name="text_button_sign_up">SIGN UP</string>
+    <string name="text_create_acc">New user? Create account</string>
+    <string name="text_person_data_agree">I agree to the processing of personal data</string>
+    <string name="text_name">Your name</string>
+    <string name="text_have_account">Already have account? Log In</string>
+    <string name="text_welcome">WELCOME</string>
+    <string name="text_start_button">Get Started</string>
+    <string name="text_next_button">Next</string>
+    <string name="text_collection">Smart, Gorgeous &amp; Fashionable Collection Explore Now</string>
+    <string name="text_journey">Let’s Start Journey</string>
+    <string name="text_power">You Have the Power To</string>
+    <string name="text_plants">There Are Many Beautiful And Attractive Plants To Your Room</string>
+</resources>
